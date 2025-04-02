@@ -1,0 +1,17 @@
+[
+  {"rollNo": "001", "name": "Alice Johnson", "dateOfBirth": "2000-05-12", "yearOfGraduation": 2022, "percentageOfMarks": 89.5},
+  {"rollNo": "002", "name": "Bob Smith", "dateOfBirth": "1999-08-23", "yearOfGraduation": 2021, "percentageOfMarks": 76.3},
+  {"rollNo": "003", "name": "Charlie Davis", "dateOfBirth": "2001-03-17", "yearOfGraduation": 2023, "percentageOfMarks": 92.4},
+  {"rollNo": "004", "name": "Diana Prince", "dateOfBirth": "2000-11-05", "yearOfGraduation": 2022, "percentageOfMarks": 85.7},
+  {"rollNo": "005", "name": "Ethan Brown", "dateOfBirth": "1998-01-14", "yearOfGraduation": 2020, "percentageOfMarks": 78.9},
+  {"rollNo": "006", "name": "Fiona Green", "dateOfBirth": "2002-07-30", "yearOfGraduation": 2024, "percentageOfMarks": 88.2},
+  {"rollNo": "007", "name": "George White", "dateOfBirth": "1997-04-22", "yearOfGraduation": 2019, "percentageOfMarks": 81.5},
+  {"rollNo": "008", "name": "Hannah Black", "dateOfBirth": "2001-09-09", "yearOfGraduation": 2023, "percentageOfMarks": 90.1},
+  {"rollNo": "009", "name": "Ian Gray", "dateOfBirth": "1999-12-18", "yearOfGraduation": 2021, "percentageOfMarks": 74.8},
+  {"rollNo": "010", "name": "Julia Adams", "dateOfBirth": "2000-06-02", "yearOfGraduation": 2022, "percentageOfMarks": 87.3},
+  {"rollNo": "011", "name": "Kevin Martinez", "dateOfBirth": "1998-10-11", "yearOfGraduation": 2020, "percentageOfMarks": 79.6},
+  {"rollNo": "012", "name": "Laura Wilson", "dateOfBirth": "2002-02-20", "yearOfGraduation": 2024, "percentageOfMarks": 84.9},
+  {"rollNo": "013", "name": "Michael Thompson", "dateOfBirth": "1997-05-07", "yearOfGraduation": 2019, "percentageOfMarks": 83.4},
+  {"rollNo": "014", "name": "Nina Patel", "dateOfBirth": "2001-12-29", "yearOfGraduation": 2023, "percentageOfMarks": 91.7},
+  {"rollNo": "015", "name": "Oliver Harris", "dateOfBirth": "1999-03-15", "yearOfGraduation": 2021, "percentageOfMarks": 77.2}
+]
